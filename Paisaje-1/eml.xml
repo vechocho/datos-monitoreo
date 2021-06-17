@@ -1,0 +1,487 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="cb16fc5b-70b7-420c-ad10-e3c6b7baf184/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>cb16fc5b-70b7-420c-ad10-e3c6b7baf184</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=proy_paisaje_trampas_camara</alternateIdentifier>
+  <title xml:lang="spa">Registro de trampas cámara del monitoreo a escala de paisajes</title>
+      <creator>
+    <individualName>
+        <givenName>MAAE</givenName>
+      <surName>Ministerio del Ambiente y Agua</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua - Dirección de Biodiversidad</organizationName>
+    <positionName>Punto Focal Nacional para el CDB</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quitp</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>andres.factos@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Karina</givenName>
+      <surName>Ron Villacrés</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Especialista en Vida Silvestre</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quitp</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>karina.ron@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Víctor Eduardo</givenName>
+      <surName>Chocho Sánchez</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Especialista en Bioseguridad</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Néstor A.</givenName>
+      <surName>Acosta-Buenaño</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Especialista en Vida Silvestre</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>nestor.acosta@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Dirección de Biodiversidad</givenName>
+      <surName>Subsecretaría de Patrimonio Natural</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Punto focal CDB Ecuador</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>andres.factos@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+    <role>pointOfContact</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Karina</givenName>
+      <surName>Ron Villacrés</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Especialista en Vida Silvestre</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>karina.ron@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+    <role>metadataProvider</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Utreras</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente - PNUD</organizationName>
+    <positionName>Coordinador Proyecto Paisajes - Vida Silvestre</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>+593 9 5148054</phone>
+    <electronicMailAddress>victorutreras@gmail.com</electronicMailAddress>
+    <role>metadataProvider</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Galo</givenName>
+      <surName>Zapata</surName>
+    </individualName>
+    <organizationName>Wildlife Conservation Society</organizationName>
+    <positionName>Director Científico</positionName>
+    <address>
+        <deliveryPoint>Mariana de Jesús E7-248 y La Pradera</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+    </address>
+    <phone>+593-2 2 237- 377</phone>
+    <electronicMailAddress>wcsecuador@wcs.org</electronicMailAddress>
+    <onlineUrl>https://ecuador.wcs.org/</onlineUrl>
+    <role>processor</role>
+      </associatedParty>
+  <pubDate>
+      2021-03-12
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El proyecto “Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial” (i.e. Proyecto Paisajes – Vida Silvestre) propuso a través de diferentes iniciativas, cambiar el paradigma de conservación, integrando las áreas protegidas en la matriz circundante y viceversa. El enfoque de paisajes se desarrolló a través de la planificación de estrategias de conservación y gestión territorial dentro de paisajes predefinidos, reconocidos como áreas espacialmente heterogéneas, con grandes extensiones que incluyen la presencia de especies silvestres, áreas naturales y el desarrollo de actividades humanas diferentes a la conservación (Sanderson et al. 2002; Plumptre et al. 2007). De esta manera, el Proyecto Paisajes – Vida Silvestre buscó integrar los requerimientos biológicos espacio-temporales de especies paisaje priorizadas, a través de la conectividad funcional para articular la conservación de la vida silvestre con actividades productivas sostenibles y la consecuente reducción de amenazas y presiones antropogénicas.</para>
+    <para>El Proyecto Paisajes, dentro de sus actividades incluyó la implementación de  monitoreo biológico de fauna para evaluar la efectividad de sus acciones de conservación. A través de esta herramienta de manejo, se propuso el uso de dos metodologías para estimar las abundancias de las especies priorizadas: muestreos a escala de paisajes y censos poblacionales. La primera se realizó mediante el uso de trampas cámara y responde a las particularidades de uso de hábitat e historia natural de especies terrestres (e.g., oso andino: Tremarctos ornatus, tapir andino: Tapirus pinchaque, tapir amazónico: Tapirus terrestris, jaguar: Panthera onca, lobo de páramo: Lycalopex culpaeus, puma: Puma concolor, huangana: Tayassu pecari) analizadas a escala de paisaje. Los censos poblacionales se realizaron para evaluar el estado de las especies focales, incluyen observaciones simultáneas a nivel nacional, considerando las restricciones de hábitat y facilidades de detección de varios individuos de una especie en diferentes lugares (e.g., cóndor andino: Vultur gryphus, bandurria carinegra: Theristicus melanopis, caimán negro: Melanosuchus niger, manatí amazónico: Trichechus inunguis, paiche: Arapaima gigas, guacamayo verde mayor: Ara ambiguus y mono araña de la costa: Ateles fusciceps).</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Muestreo</keyword>
+            <keyword>Trampa cámara</keyword>
+            <keyword>Ambiente</keyword>
+            <keyword>Ministerio</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Paisajes</keyword>
+            <keyword>Especies focales</keyword>
+            <keyword>Monitoreo</keyword>
+            <keyword>Esmeraldas</keyword>
+            <keyword>Imbabura</keyword>
+            <keyword>El Oro</keyword>
+            <keyword>Ecuador</keyword>
+            <keyword>SNAP</keyword>
+            <keyword>Áreas Protegidas</keyword>
+            <keyword>MAAE</keyword>
+            <keyword>Ministerio del Ambiente y Agua</keyword>
+            <keyword>Dirección de Biodiversidad</keyword>
+            <keyword>Subsecretaría de Patrimonio Natural</keyword>
+            <keyword>PNUD</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keyword>Occurrens</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.researchgate.net/publication/332383493_Proyecto_Paisajes-Vida_Silvestre_resultados_preliminares_del_monitoreo_a_escala_de_paisajes</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El proyecto se ejecutó en todo el territorio continental ecuatoriano; fue desarrollado según las especificaciones del protocolo de trabajo, generado por el Proyecto a través de WCS – Ecuador (2015). Este monitoreo consistió en la selección de hasta 45 cuadrículas de 16 km2 en cada uno de los paisajes seleccionados.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.991</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.125</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.472</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.178</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2015-10-22</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-01-27</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Todos los registros se trató de identificar a nivel de especie. Sin embargo, donde no fue posible se presenta la identificación al nivel taxonómico que permitió la fotografía. Los registros obtenidos corresponden a mamíferos y aves. Se detalla, de modo general, los órdenes de cada clase señalada.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animal</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Mammalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Aves</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Artiodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cetartiodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cingulata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Didelphimorphia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Perissodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pilosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Primates</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Rodentia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Falconiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Galliformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Tinamiformes</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Andrés R.</givenName>
+      <surName>Factos</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Punto Focal Nacional para el CDB</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>andres.factos@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Paúl</givenName>
+      <surName>Aulestia</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente y Agua</organizationName>
+    <positionName>Especialista en Vida Silvestre</positionName>
+    <address>
+        <deliveryPoint>Calle Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2 398-7600 ext. 1409</phone>
+    <electronicMailAddress>paul.aulestia@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Análisis de datos 
+
+Se sistematizaron los registros de cada especie focal en todos los paisajes seleccionados, y se identificaron cada una de las unidades de muestreo que comprende la distribución natural esperada de cada especie. Este ejercicio permitió definir unidades de muestreo exclusivas para cada especie dentro de los cinco paisajes seleccionados. Se elaboraron historias de captura para identificar las presencias y/o ausencias de las especies focales registradas en cada una de las unidades de muestreo en cada paisaje seleccionado.
+
+°Estimación de abundancia relativa: Tasa de captura fotográfica y tasa de encuentro de registros indirectos. 
+
+La estimación de abundancia relativa es un índice que relaciona el número de observaciones independientes (directas e indirectas) por esfuerzo de muestreo. Los índices de abundancia relativa están correlacionados con estimaciones de densidad poblacional, obtenidos a través de estudios de captura – recaptura, y son útiles para identificar cambios en las frecuencias de registros entre temporadas de muestreo (Collier et al. 2007; Kelly 2008; O’Brien et al. 2003; Zapata-Ríos y Branch 2016). Los índices de abundancia relativa se utilizaron para evaluar cambios temporales en las tasas de encuentro de las especies prioritarias. 
+
+o Tasa de encuentro 
+
+Las estimaciones de tasa de encuentro son indicadores que utilizan como insumo las observaciones directas y registros indirectos de fauna silvestre en un área, por ejemplo: huellas, rasguños, fecas, comederos, osamentas o cualquier indicio de presencia de la especie. 
+
+La tasa de encuentro se calculó considerando el número de registros directos e indirectos independientes según el protocolo de trabajo para cada especie focal en cada uno de los paisajes seleccionados (WCS – Ecuador 2015), dividido para la unidad de esfuerzo definida (km recorridos).
+
+o Tasas de captura fotográfica 
+
+La tasa de captura fotográfica es una métrica comúnmente utilizada para estimar la frecuencia de registros de una especie o individuos de una especie por unidad de esfuerzo de muestreo en una trampa cámara (Rovero y Marshall 2009). Existen casos que han demostrado altas correlaciones entre las tasas de captura fotográfica y estimaciones de densidad de mamíferos, argumentando que a medida que aumenta la densidad, se espera que la probabilidad de encuentro entre individuos y estaciones de fototrampeo aumente (O’Brien et al. 2003; Rovero y Marshall 2009). El análisis de las tasas de captura fotográficas se realizó identificando las unidades de muestreo que incluyen la distribución natural de cada especie focal. El tiempo que estuvo activa cada estación de fototrampeo se estandarizó en 32 días para cada trampa cámara (WCS-Ecuador 2015). Por lo tanto, sólo se consideraron las fotografías registradas en dicho período de tiempo. 
+
+°Modelos de ocupación de sitio 
+
+La ocupación se define como la proporción de área ocupada por una especie determinada, bajo la condición hipotética de que la población de dicha especie está cerrada al momento del muestreo (MacKenzie et al. 2006). Los modelos de ocupación de sitio permiten estimar la probabilidad de uso de hábitat en función de una o más covariables de cada área de muestreo, y de la probabilidad de detección, en función de las variables de cada ocasión de muestreo (MacKenzie y Bailey 2004; MacKenzie et al. 2006). 
+
+Para los modelos de ocupación se realizaron historias de captura. Estos registros fueron generados a partir de las fotografías de las trampas cámara y de registros directos e indirectos de las especies priorizadas. 
+
+Para el modelamiento de la probabilidad de ocupación del hábitat (ϕ) y probabilidad de detección se utilizaron seis atributos del paisaje como covariables, calculadas a través de sistemas de información geográfica y una covariable que considera variaciones en la detectabilidad para cada ocasión de muestreo. 
+
+Los modelos de ocupación se sitio se realizaron con el programa PRESENCE v2.12.25 (Hines 2006), que permite minimizar el efecto de falsas ausencias incorporando la detección imperfecta en la estimación de la probabilidad de ocupación del hábitat, es decir, considera que la especie de estudio puede no ser detectada, incluso cuando verdaderamente está presente dentro de un hábitat (MacKenzie et al. 2006).
+
+Finalmente, para comparar las estimaciones, se calcularon los intervalos de confianza al 95% para cada una de las especies prioritarias en cada fase de monitoreo.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El Proyecto Paisajes, dentro de sus actividades incluyó la implementación de  monitoreo biológico para evaluar la efectividad de sus acciones de conservación. A través de esta herramienta de manejo, se propuso el uso de dos metodologías para estimar las abundancias de las especies priorizadas: muestreos a escala de paisajes y censos poblacionales. La primera se realiza mediante el uso de trampas cámara y responde a las particularidades de uso de hábitat e historia natural de especies terrestres (e.g., oso andino: Tremarctos ornatus, tapir andino: Tapirus pinchaque, tapir amazónico: Tapirus terrestris, jaguar: Panthera onca, lobo de páramo: Lycalopex culpaeus, puma: Puma concolor, huangana: Tayassu pecari) analizadas a escala de paisaje.
+
+Los censos poblacionales se realizan para evaluar el estado de las especies focales, incluyen observaciones simultáneas a nivel nacional, considerando las restricciones de hábitat y facilidades de detección de varios individuos de una especie en diferentes lugares (e.g., cóndor andino: Vultur gryphus, bandurria carinegra: Theristicus melanopis, caimán negro: Melanosuchus niger, manatí amazónico: Trichechus inunguis, paiche: Arapaima gigas, guacamayo verde mayor: Ara ambiguus y mono araña de la costa: Ateles fusciceps).</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>El monitoreo biológico a escala de paisaje fue desarrollado según las especificaciones del protocolo de trabajo, generado en el marco del Proyecto a través de WCS – Ecuador (2015) (Figura 1). Este monitoreo consistió en la selección de hasta 45 cuadrículas de 16 km2 en cada uno de los paisajes seleccionados. Cada cuadrícula se visitó en dos ocasiones. En la primera visita se seleccionaron al azar dos celdas de 1 km2 que fueron muestreadas mediante la instalación de una trampa cámara y el recorrido de tres senderos de reconocimiento de hasta 600 m en cada una, para identificar registros indirectos de las especies focales (e.g., huellas, rastros, rasguños). La segunda visita se realizó para el retiro de las trampas cámara, 30 días después de su instalación, además se seleccionaron dos celdas adicionales que se muestrearon únicamente a través de tres senderos de reconocimiento dentro de cada una. El levantamiento de información de campo comprendió tres fases de monitoreo: fase 1 (2015-2016), fase 2 (2017) y fase 3 (2018).</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project id="Proyecto Paisajes – Vida Silvestre">
+    <title>Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial</title>
+      <personnel>
+        <individualName>
+            <givenName>Gorky</givenName>
+          <surName>Ríos Alvear</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Karina</givenName>
+          <surName>Ron Villacrés</surName>
+        </individualName>
+        <role>metadataProvider</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Victor</givenName>
+          <surName>Utreras</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Wildlife Conservation Society</givenName>
+          <surName>WCS</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <abstract>
+        <para>El proyecto “Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial” (i.e. Proyecto Paisajes – Vida Silvestre) propuso a través de diferentes iniciativas, cambiar el paradigma de conservación, integrando las áreas protegidas en la matriz circundante y viceversa. El enfoque de paisajes se desarrolla a través de la planificación de estrategias de conservación y gestión territorial dentro de paisajes predefinidos, reconocidos como áreas espacialmente heterogéneas, con grandes extensiones que incluyen la presencia de especies silvestres, áreas naturales y el desarrollo de actividades humanas diferentes a la conservación (Sanderson et al. 2002; Plumptre et al. 2007). De esta manera, el Proyecto Paisajes – Vida Silvestre busca integrar los requerimientos biológicos espacio-temporales de especies paisaje priorizadas, a través de la conectividad funcional para articular la conservación de la vida silvestre con actividades productivas sostenibles y la consecuente reducción de amenazas y presiones antropogénicas.</para>
+      </abstract>
+      <funding>
+        <para>Este proyecto fue financiado por el Fondo para el Medio Ambiente Mundial (GEF)</para>
+      </funding>
+      <designDescription>
+        <description>
+          <para>Trabajo de campo
+El monitoreo biológico a escala de paisaje fue desarrollado según las especificaciones del protocolo de trabajo, generado por WCS – Ecuador (2015). Este monitoreo consistió en la selección de hasta 45 cuadrículas de 16 km2 en cada uno de los paisajes seleccionados. Cada cuadrícula se visitó en dos ocasiones. En la primera visita se seleccionaron al azar dos celdas de 1 km2 que fueron muestreadas mediante la instalación de una trampa cámara y el recorrido de tres senderos de reconocimiento de hasta 600 m en cada una, para identificar registros indirectos de las especies focales (e.g., huellas, rastros, rasguños). La segunda visita se realizó para el retiro de las trampas cámara, 30 días después de su instalación, además se seleccionaron dos celdas adicionales que se muestrearon únicamente a través de tres senderos de reconocimiento dentro de cada una. El levantamiento de información de campo comprendió tres fases de monitoreo: fase 1 (2015-2016), fase 2 (2017) y fase 3 (2018).
+
+Análisis de datos
+Se sistematizaron los registros de cada especie focal en todos los paisajes seleccionados, y se identificaron cada una de las unidades de muestreo que comprende la distribución natural esperada de cada especie. Este ejercicio permitió definir unidades de muestreo exclusivas para cada especie dentro de los cinco paisajes seleccionados. Se elaboraron historias de captura para identificar las presencias y/o ausencias de las especies focales registradas en cada una de las unidades de muestreo en cada paisaje seleccionado.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-03-03T07:57:40.242+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Ministerio del Ambiente y Agua. 2021. Registro de trampas cámara del monitoreo a escala de paisajes. Proyecto Paisajes - Vida Silvestre, WCS, GEF, PNUD. Fuente: Ministerio del Ambiente y Wildlife Conservation Society. 2019. Monitoreo a escala de paisajes. Proyecto Paisajes – Vida Silvestre, WCS, GEF, PNUD. Quito, Ecuador</citation>
+          <bibliography>
+                <citation>Sanderson, E.W., Redford, K.H., Vedder, A., Coppolillo, P. y Ward, S.E. 2002. A conceptual model for conservation planning based on landscape species requirements. Landscape and Urban Planning 58: 41–56.</citation>
+                <citation>Plumptre, A.J., Kujirakwinja, D., Treves, A. Owiunji, I. y Rainer, H. 2007. Transboundary conservation in the greater Virunga landscape: Its importance for landscape species. Biological Conservation 134: 279–287.</citation>
+                <citation>Wildlife Conservation Society – Ecuador. 2015. Protocolo para el registro de presencias y monitoreo de poblaciones de especies priorizadas para siete áreas protegidas del Ecuador. Proyecto: Desarrollo de enfoque de manejo de paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la conservación de la fauna silvestre amenazada de extinción mundial. Versión 1.1. Junio 2015.</citation>
+                <citation>Collier, N., Mackay, D. y Benkendorff, K. 2007. Is relative abundance a good indicator of population size? Evidence from fragmented populations of a specialist butterfly (Lepidoptera: Lycaenidae). Population Ecology 50: 17–23.</citation>
+                <citation>Kelly, M.J. 2008. Design, evaluate, refine: camera trap studies for elusive species. Animal Conservation 11: 182–184.</citation>
+                <citation>O’Brien, T.G., Kinnaird, M.F. y Wibisono, H.T. 2003. Crouching tigers, hidden prey: Sumatran tiger and prey populations in a tropical forest landscape. Animal Conservation, 6, 131–139.</citation>
+                <citation>Zapata-Ríos, G. y Branch, L. 2016. Altered activity patterns and reduced abundance of native mammals in sites with feral dogs in the high Andes. Biological Conservation 193: 9–16.</citation>
+                <citation>Rovero, F. y A. Marshall. 2009. Camera trapping photographic rate as an index of density in forest ungulates. Journal of Applied Ecology 46: 1011–1017.</citation>
+                <citation>MacKenzie, D.I., Nichols, J.D., Royle, J.A., Pollock, K.H., Bailey, L.L., y Hines, J.E. 2006. Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Burlington, Massachusetts: Academic Press. 324 pp.</citation>
+                <citation>MacKenzie, D.I. y Bailey, L. 2004. Assessing the fit of site-occupancy models. Journal of Agricultural, Biological and Environmental Statistics 9(3): 300–318.</citation>
+          </bibliography>
+            <physical>
+              <objectName>Fauna registrada mediante trampas fotográficas, Zona Alta Cotacachi-Cayapas - El Ángel. Field Guide 1144.</objectName>
+              <characterEncoding>N/A</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Digital</formatName>
+                    <formatVersion>April 2020</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://www.researchgate.net/publication/340635022_Fauna_registrada_mediante_trampas_fotograficas_Zona_Alta_Cotacachi-Cayapas_-_El_Angel_Field_Guide_1144</url>
+                </online>
+              </distribution>
+            </physical>
+            <physical>
+              <objectName>Fauna registrada mediante trampas fotográficas, Pambilar -Zona Baja Cotacachi-Cayapas. Field Guide 1210.</objectName>
+              <characterEncoding>N/A</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>Digital</formatName>
+                    <formatVersion>February 2020</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://www.researchgate.net/publication/339796900_Fauna_registrada_mediante_trampas_fotograficas_Pambilar_-Zona_Baja_Cotacachi-Cayapas_Field_Guide_1210</url>
+                </online>
+              </distribution>
+            </physical>
+            <physical>
+              <objectName>Nuevo registro altitudinal del Pavón Nocturno Nothocrax urumutum (Cracidae) y notas sobre su historia natural</objectName>
+              <characterEncoding>N/A</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>DIgital</formatName>
+                    <formatVersion>May 2018</formatVersion>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://www.researchgate.net/publication/325070645_Nuevo_registro_altitudinal_del_Pavon_Nocturno_Nothocrax_urumutum_Cracidae_y_notas_sobre_su_historia_natural</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=proy_paisaje_trampas_camara</resourceLogoUrl>
+          <dc:replaces>cb16fc5b-70b7-420c-ad10-e3c6b7baf184/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
